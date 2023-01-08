@@ -12,6 +12,11 @@ def extract(filename):
             f = open(filename)
             # Loads it into a variable
             data = json.load(f)
+            # Iterates through the data
+            for table in data:
+                # Puts data into a pandas data frame
+                df = pd.DataFrame(data[table])
+                print(df)
     except:
         pass
 
