@@ -25,7 +25,7 @@ Install the software to your local system using GitHub clone
   $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 ```
 
-* Deleted the json files
+* Delete the json files
 
 ## Usage
 
