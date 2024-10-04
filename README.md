@@ -19,10 +19,10 @@ Install the software to your local system using GitHub clone
 * Navigate to the Code button
 * Copy the URL either SSH or HTTPS
 * Open termial and navigate to the directory the clone will go in
-* Write git clone and paste the URl
+* Write git clone and paste the URL
 
 ```bash
-  $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+  $ git clone https://github.com/tylerbeckb/ETL-Python-Pipeline
 ```
 
 * Delete the json files
